@@ -1,0 +1,13 @@
+git classes:
+-------------------
+git version
+git config -global user.name "udaysaisuma"
+git config --global user.email "jyothsnapoola@gmail.com"
+
+goto github create new Repository
+----------
+git init
+git clone https://github.com/udaysaisuma/uday.git
+git add --all
+git commit -m 'tesing my first commit'
+git push origin main
